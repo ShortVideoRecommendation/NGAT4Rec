@@ -5,7 +5,7 @@ import networkx as nx
 
 if __name__ == "__main__":
     t = time.time()
-    input_file = "Data/nebula.csv"
+    input_file = "Data/kuaishou.csv"
 
     graph = nx.Graph()
 
