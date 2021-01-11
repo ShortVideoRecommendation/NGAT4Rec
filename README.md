@@ -38,4 +38,4 @@ NGAT4Rec: Neighbor-Aware Graph Attention Network For Recommendation
   - --neighbors_num: 采样邻居数目与深度，例如[64,32]，即采样64个1跳邻居，再采样每个1跳邻居的32个邻居即64*32个2跳邻居
   - --epoch：训练轮数
 
-utility和evaluate的部分代码来自LightGCN（https://github.com/kuandeng/LightGCN.git），感谢
+utility和evaluate的部分代码来自LightGCN（ https://github.com/kuandeng/LightGCN.git ），感谢
